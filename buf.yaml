@@ -10,7 +10,7 @@ lint:
     - DEFAULT
   ignore:
     - API/aruna/api/google
-    - API/aruna/api/health
+    - API/aruna/api/health/v2/health.proto
     - API/aruna/api/protoc-gen-openapiv2
   ignore_only:
     ENUM_VALUE_PREFIX:
